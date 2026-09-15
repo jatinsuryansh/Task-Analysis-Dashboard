@@ -30,7 +30,7 @@ Interactive analysis of tasks based on their current status and priority.
 ![Overview](images/Overview.png)
 
 ### Task Status
-![Task Status](images/Task Status.png)
+![Task Status](images/Task_Status.png)
 
 ## 🎯 Skills Demonstrated
 
